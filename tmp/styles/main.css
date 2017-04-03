@@ -1,0 +1,16 @@
+body, html, div {
+  height: 100%; }
+
+.view1 {
+  height: 100%;
+  color: #000000;
+  font-weight: bold;
+  font-family: Helvetica;
+  background-color: #70CADB; }
+
+.view2 {
+  height: 100%;
+  color: #FFFFFF;
+  font-weight: bold;
+  font-family: Helvetica;
+  background-color: #3EB890; }
